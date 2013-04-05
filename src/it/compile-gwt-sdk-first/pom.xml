@@ -47,6 +47,7 @@
           <optimizationLevel>1</optimizationLevel>
           <extraParam>true</extraParam>
           <soyc>false</soyc>
+          <persistentunitcache>false</persistentunitcache>
           <strict>true</strict>
           <gwtSdkFirstInClasspath>true</gwtSdkFirstInClasspath>
         </configuration>
